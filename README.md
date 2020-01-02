@@ -1,6 +1,4 @@
-# Pokemon.json
-
-This repository provides a basic dataset of all Pokemons.
+Rapido codigo para hacer un Pokedex con Python
 
 ## Copyright Notice
 
